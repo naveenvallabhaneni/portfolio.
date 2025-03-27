@@ -1,0 +1,299 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.icon-portfolio {
+    border-style: solid;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-color: #4b6cc1;
+}
+
+.hamburg-text {
+    font-size: 18px;
+}
+
+.portfolio-bg-container {
+    background-color: #191a1d;
+    padding-top: 50px;
+    padding-bottom: 100px;
+
+}
+
+.portf-img {
+    margin-top: 50px;
+    height: 250px;
+    width: 250px;
+    border-radius: 120px;
+}
+
+.portf-name {
+    color: #ffffff;
+    font-size: 35px;
+    font-family: "Roboto";
+}
+
+.Name-text {
+    color: #4b6cc1;
+}
+
+.designantion {
+    color: #9aa5b1;
+}
+
+.portf-button {
+    background-color: #4b6cc1;
+    color: #ffffff;
+    height: 45px;
+    width: 135px;
+    font-family: "Roboto";
+    border-width: 0px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.portf-about-bg {
+    background-color: #323f4b;
+}
+
+.facts {
+    color: #cced00;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 24px;
+}
+
+.about-me-titile {
+    color: #ffffff;
+    font-size: 35px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.img-profile {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.discripation {
+    color: #9aa5b1;
+    font-size: 18px;
+}
+
+.vr-footer-bg {
+    background-color: #1f2933;
+
+}
+
+.skill-card-bg {
+    background-color: #323f4b;
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+
+}
+
+.card-vr-img {
+    width: 100px;
+
+
+}
+
+.portf-card-titile {
+    color: #ffffff;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.portf-projects-bg {
+    background-color: #3e4c59;
+}
+
+.portf-name {
+    color: #cced00;
+    font-size: 30px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.portf-name-1 {
+    color: #ffffff;
+    font-size: 45px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.portf-pro-card {
+    background-color: #323f4b;
+    border-radius: 10px;
+}
+
+.portf-card-title {
+    color: #9aa5b1;
+    font-size: 20px;
+}
+
+.portf-card-name {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 30px;
+}
+
+.portf-project-discription {
+    color: #9aa5b1;
+    font-size: 30px;
+}
+
+.readmore-link {
+    color: #cced00;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.portf-service-bg {
+    background-color: #52606d;
+}
+
+.portf-service-name {
+    color: #cced00;
+    font-size: 33px;
+    font-weight: 500;
+}
+
+.portf-titl {
+    color: #ffffff;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.portf-service-card {
+    background-color: #323f4b;
+    border-radius: 10px;
+    padding: 30px;
+    margin-bottom: 25px;
+}
+
+.portf-service-card-logo {
+    width: 15%;
+}
+
+.portf-title {
+    color: #ffffff;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.portf-service-disc {
+    color: #9aa5b1;
+    font-size: 30px;
+}
+
+.bg-portf-workdone {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+
+    background-size: cover;
+}
+
+.icon-oortf-workdone {
+    color: #ffffff;
+    height: 80px;
+    width: 80px;
+}
+
+.hr-line {
+    background-color: #ffffff;
+    width: 80px;
+}
+
+.count-workdone {
+    color: #ffffff;
+    font-size: 45px;
+}
+
+.workdone-disc {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.portf-testimonial-bg {
+    background-color: #1f2933;
+    padding: 45px;
+}
+
+.portf-testimonial-head {
+    color: #cced00;
+    font-size: 35px;
+}
+
+.portf-testimonial-name {
+    color: #ffffff;
+    font-size: 45px;
+}
+
+.bg-card-portf-testmonial {
+    background-color: #323f4b;
+    padding: 20px;
+
+}
+
+.custom-testmonial-portf-image {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+.portf-disc {
+    color: #9aa5b1;
+    font-size: 25px;
+}
+
+.portf-botom {
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.bg-portf-footer {
+    background-color: #0d2436;
+}
+
+.porft-footer-img {
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+}
+
+.footer-name {
+    color: #cced00;
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.footer-role {
+    color: #9aa5b1;
+    font-size: 15px;
+}
+
+.footer-icon {
+    color: #5a7184;
+    font-size: 20px;
+}
+
+.footer-final-text {
+    font-size: 15px;
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-weight: 200;
+}
+
+.footer-portf- {
+    background-color: #001c32;
+    color: #9aa5b1;
+    text-align: center;
+    padding: 10px;
+}
+
+.portf-fin {
+    text-align: center;
+}
